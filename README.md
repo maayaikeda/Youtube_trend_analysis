@@ -128,6 +128,7 @@ YouTube suggest videos related to videos users are currently watching, having a 
 
 Similar to the "News & Politics" category, the videos start trending a couple of days after the videos are published.
 
+## Conclusion
 
 Overall, this analysis suggests that to get videos on the YouTube trending page, it helps to 
 1.	Publish the video from a large channel 
