@@ -72,7 +72,7 @@ Even though the suicide squad movie trailer was also released on 8/22/20 and was
 Interestingly, 12 videos with the word “trailer” were still trending on 09/08 but none were related to the batman movie. 
 
 
-![enterainmentinterestvspublishedd](/images/enterainmentinterestvspublishedpng..png)
+![entertainmentinterst](/images/entertainemntinterestvspublished.png)
 
 
 For each key word, the peaks of trending videos are published is almost the same as the peaks of Google interest. In other words, many videos that eventually go on the trending page is uploaded exactly when the interest in the google search peaks and go on the trending page a couple of days later (average lab between publish date to trending date was 3 days). 
@@ -123,7 +123,7 @@ YouTube suggest videos related to videos users are currently watching, having a 
 ![wordsinterests](/images/wordsinterests.png)
 
 
-![entertainmentinterst](/images/entertainemntinterestvspublished.png)
+
 ![entertainmentpublished](/images/entertainemnttrendingvspublished.png)
 
 
