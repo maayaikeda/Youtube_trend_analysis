@@ -15,18 +15,26 @@ I first took on the first day I collected data (8/26/2020).
 
 ![worldcloudn26](/images/wordcloudnews26.png)
 
-When compared to the next day (8/27/2020), 
-
-![worldcloudn27](/images/wordcloudnews27.png)
-
-The word cloud shows that frequently used words are related to the Republican National Convention that was held on 8/24/2020-8/27/2020. Six videos out of 16 videos trending in the ‘News and Politics’ category were related to the Republican National Convention. Only two of those were also tagged Democratic National Convention which was held 8/17-8/20. To see if the number of videos is a reflection of the public interest on the topics, I looked for google interest over time for the search ‘Republican National Convention’ and ‘Democratic National Convention’. 
+The word cloud shows that frequently used words are related to the Republican National Convention that was held on 8/24/2020-8/27/2020. Six videos out of 16 videos trending in the ‘News and Politics’ category were related to the Republican National Convention. 
 
 ![conventionvideos](/images/Screen%20Shot%202020-09-09%20at%2012.58.03%20PM.png)
 
+Only two of those were also tagged Democratic National Convention which was held 8/17-8/20.
+Interestingly, the word cloud looked very different for the next day (8/27/2020). 
 
-The plot shows when the interests peaked vs when the videos were published for videos started trending after 8/26/20.
+![worldcloudn27](/images/wordcloudnews27.png)
+
+Words related to Hurricane Laura are top words used as titles and tags. 
+
+
+ To see if the number of videos is a reflection of the public interest on the topics, I looked for google interest over time for the search ‘Republican National Convention’, ‘Democratic National Convention’, and 'Hurricane Laura', and compared it with the timing of when the trending videos were published. 
 
 ![politicsinterest](/images/publishedvsinterestnews.png)
+
+
+For videos started trending after 8/26/20, video uploads peaked .
+
+
 
 
 ![politics](/images/politicsdr.png)
