@@ -113,6 +113,10 @@ To get more clue about the relationship between search term interest and videos 
 ![wordsinterests](/images/wordsinterests.png)
 
 
+![entertainmentinterst](/images/entertainemntinterestvspublished.png)
+![entertainmentpublished](/images/entertainemnttrendingvspublished.png)
+
+
 Overall, this analysis suggests that to get videos on the YouTube trending page, it helps to 
 1.	Publish the video from a large channel 
 2.	Create the video on a topic (or person) that are high in interest on Google
