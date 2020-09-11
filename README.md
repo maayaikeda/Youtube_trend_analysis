@@ -26,6 +26,9 @@ The word cloud shows that frequently used words are related to the Republican Na
 
 The plot shows when the interests peaked vs when the videos were published for videos started trending after 8/26/20.
 
+![politicsinterest](/images/publishedvsinterestnews.png)
+
+
 ![politics](/images/politicsdr.png)
 
 This is the plot for when the videos were published vs when they were on the trending page. 
