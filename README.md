@@ -96,18 +96,28 @@ Channels with multiple trending videos in the Entertainment category.
 ![entertainmentchannels](/images/entertainmentchannels.png)
 
 
-Also as expected, some of the channels were ran with single individuals with large followings (James Charles and Emma Chamberlain, 21M and 9M subscribers respectively). While James Charles includes words and people’s names of high interest in his video titles and tags, Emma Chamberlain only tags herself and many of her videos still trend. We can assume that fans of these channels rush to see their content as soon as they upload new videos and their channel title/their names themselves are high interest on google. One the other hand, some of channels with the many trending videos on the days of this research were small (less than 2M subscribers. For instance, the channel “The United Stand” only have 800k subscribers and only 300k or less views for their videos but consistently have trending videos on across many days. This channel covers information on the English football team “Manchester United,” and the interest on google for Manchester united is very across all the days. 
+Also as expected, some of the channels were ran with single individuals with large followings (James Charles and Emma Chamberlain, 21M and 9M subscribers respectively). 
+
+![James](/images/Screen%20Shot%202020-09-09%20at%201.29.33%20PM.png)
+![emma](/images/Screen%20Shot%202020-09-09%20at%201.29.45%20PM.png)
+
+While James Charles includes words and people’s names of high interest in his video titles and tags, Emma Chamberlain only tags herself and many of her videos still trend. We can assume that fans of these channels rush to see their content as soon as they upload new videos and their channel title/their names themselves are high interest on google. One the other hand, some of channels with the many trending videos on the days of this research were small (less than 2M subscribers. For instance, the channel “The United Stand” only have 800k subscribers and only 300k or less views for their videos but consistently have trending videos on across many days. This channel covers information on the English football team “Manchester United,” and the interest on google for Manchester united is very across all the days. 
 
 ![youtubersinterest](/images/youtubersinterest.png)
 
 
 
-To get more clue about the relationship between search term interest and videos trending, I looked at two other small channels with more than two trending videos (Dani and SaffronBarkerVlogs). While Dani’s channel is small, google search interest for ‘Dani’ is high. ‘SaffronBarkerVlogs’ is not high in interest on google but the videos trended from this channel used words such as “dream house”, “road trip” and “boyfriends” that had high interest score on google. YouTube suggest videos related to videos users are currently watching, having a title similar to one of James Charles ‘s videos at the same time could have helped SaffronBarkerVlogs’ video trend. 
+To get more clue about the relationship between search term interest and videos trending, I looked at two other small channels with more than two trending videos (Dani and SaffronBarkerVlogs). While Dani’s channel is small, google search interest for ‘Dani’ is high. ‘SaffronBarkerVlogs’ is not high in interest on google but the videos trended from this channel used words such as “dream house”, “road trip” and “boyfriends” that had high interest score on google. 
 
 
-![jamescharles](/images/Screen%20Shot%202020-09-09%20at%201.29.33%20PM.png)
-![emma](/images/Screen%20Shot%202020-09-09%20at%201.29.45%20PM.png)
+
 ![saffron](/images/Screen%20Shot%202020-09-09%20at%201.29.52%20PM.png)
+
+One of ‘SaffronBarkerVlogs’s trending video is titled very similar to one of James Charles' trending videos. 
+("I bought my dream house" by SaffronBarkerVlogs vs. "I Bought My First Home! 2020 House Tour" by James Charles.)
+YouTube suggest videos related to videos users are currently watching, having a title similar to one of James Charles ‘s videos at the same time could have helped SaffronBarkerVlogs’ video trend. 
+
+
 
 
 ![wordsinterests](/images/wordsinterests.png)
