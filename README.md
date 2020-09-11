@@ -60,7 +60,7 @@ And the word could for the next day and the 3 days later (8/29/20) still looked 
 
 
 
-This suggests that the videos entertainment category trend longer than the videos in the News and Politics category. Indeed, videos in the entertainment category trended longer (average 4.2 days) than videos in the News and Politics category (4.6 days) (t-test, p = 0.0058).
+This suggests that the videos entertainment category trend longer than the videos in the News and Politics category. Indeed, videos in the entertainment category trended longer (average 4.2 days) than videos in the News and Politics category (4.6 days) (t-test, p = 0.0058). The longest time period a video was trending was 11 days for this data set.
 
 ![trailerinterest](/images/trailerinterest.png)
 
@@ -69,24 +69,19 @@ This suggests that the videos entertainment category trend longer than the video
 
 
 Even though the suicide squad movie trailer was also released on 8/22/20 and was trending on 8/26, there were a lot less than videos related to the suicide squad movie trailer. This reflects the difference in the amount of interest on google search. While the search for “suicide squad does peak at the same time as “Batman,” the peak is a lot smaller than “Batman.”
-
-
-
-
-
-
-
 Interestingly, 12 videos with the word “trailer” were still trending on 09/08 but none were related to the batman movie. 
 
-When the peaks of Google interest and videos are published, 
+
+![enterainmentinterestvspublishedpng](/images/enterainmentinterestvspublished.png)
 
 
+For each key word, the peaks of trending videos are published is almost the same as the peaks of Google interest. In other words, many videos that eventually go on the trending page is uploaded exactly when the interest in the google search peaks and go on the trending page a couple of days later (average lab between publish date to trending date was 3 days). 
 
-
-Therefore, many videos that eventually go on the trending page is uploaded exactly when the interest in the google search peaks and go on the trending page a couple of days later (average lab between publish date to trending date was 3 days). 
 
 
 To support these observations, I tested to see if the number of trending videos tagging a certain word is correlated with the google interest score. When tested for frequently tagged words (>10) in trending videos (other than ‘2020’ and ‘videos’), the sum of Google interest index score 3 days prior significantly correlated to the number of videos with those words in the title or tag (Pearson, p = 0.028). 
+
+![interstvstrend](/images/interstvstrend.png)
 
 However, when I performed the same test for top trending words on Google, there were no relationship between the amount of interest on Google and the number of videos made on the topics 1-6 days later. This shows that just using words that are high on Google search ranking is not enough for videos to trend. This makes sense, since not all words/phrases searched on Google are interesting as video topics. Together, among words that are used 
 
