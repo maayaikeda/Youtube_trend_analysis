@@ -103,6 +103,13 @@ Also as expected, some of the channels were ran with single individuals with lar
 
 
 To get more clue about the relationship between search term interest and videos trending, I looked at two other small channels with more than two trending videos (Dani and SaffronBarkerVlogs). While Dani’s channel is small, google search interest for ‘Dani’ is high. ‘SaffronBarkerVlogs’ is not high in interest on google but the videos trended from this channel used words such as “dream house”, “road trip” and “boyfriends” that had high interest score on google. YouTube suggest videos related to videos users are currently watching, having a title similar to one of James Charles ‘s videos at the same time could have helped SaffronBarkerVlogs’ video trend. 
+
+
+![jamescharles](/images/Screen%20Shot%202020-09-09%20at%201.29.33%20PM.png)
+![emma](/images/Screen%20Shot%202020-09-09%20at%201.29.45%20PM.png)
+![saffron](/images/Screen%20Shot%202020-09-09%20at%201.29.52%20PM.png)
+
+
 ![wordsinterests](/images/wordsinterests.png)
 
 
