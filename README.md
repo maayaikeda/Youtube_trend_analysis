@@ -15,6 +15,10 @@ I first took on the first day I collected data (8/26/2020).
 
 ![worldcloudn26](/images/wordcloudnews26.png)
 
+When compared to the next day (8/27/2020), 
+
+![worldcloudn27](/images/wordcloudnews27.png)
+
 The word cloud shows that frequently used words are related to the Republican National Convention that was held on 8/24/2020-8/27/2020. Six videos out of 16 videos trending in the ‘News and Politics’ category were related to the Republican National Convention. Only two of those were also tagged Democratic National Convention which was held 8/17-8/20. To see if the number of videos is a reflection of the public interest on the topics, I looked for google interest over time for the search ‘Republican National Convention’ and ‘Democratic National Convention’. 
 
 ![conventionvideos](/images/Screen%20Shot%202020-09-09%20at%2012.58.03%20PM.png)
@@ -22,7 +26,7 @@ The word cloud shows that frequently used words are related to the Republican Na
 
 The plot shows when the interests peaked vs when the videos were published for videos started trending after 8/26/20.
 
-conventioninterest
+![politics](/images/politicsdr.png)
 
 This is the plot for when the videos were published vs when they were on the trending page. 
 Hurricane Laura was approaching Texas on the 27th, and the word cloud for the ‘News and Politics’ category shows that frequently used words are related to Hurricane Laura and less words are used related to the political conventions.
@@ -32,7 +36,7 @@ For the Entertainment category, many videos with the word “trailer” and “B
 ![ewordcloud26](/images/wordcloudentertainment26.png)
 
 Interestingly, 12 videos with the word “trailer” were still trending on 09/08 but none were related to the batman movie. 
-![hurricaneinterest](/images/hurricaneinterest.png)
+
 
 
 Therefore, many videos that eventually go on the trending page is uploaded exactly when the interest in the google search peaks and go on the trending page a couple of days later (average lab between publish date to trending date was 3 days). Videos in the entertainment category trended longer (average 4.2 days) than videos in the News and Politics category (4.6 days) (t-test, p = 0.0058).
