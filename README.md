@@ -12,14 +12,18 @@ Majority (58.5%) of all trending videos were in Entertainment, music, or sports.
 
 To understand what kinds of videos trend on YouTube, I took a look at the what words were used in the tags and titles in trending videos of all categories across days I collected data from. This is the word cloud from the whole dataset. Since it does not give clear picture of what kinds of videos are trending, I decided to look at videos of each category and individual days separately.
 I first took on the first day I collected data (8/26/2020). 
+
 ![worldcloudn26](/images/wordcloudnews26.png)
 
 The word cloud shows that frequently used words are related to the Republican National Convention that was held on 8/24/2020-8/27/2020. Six videos out of 16 videos trending in the ‘News and Politics’ category were related to the Republican National Convention. Only two of those were also tagged Democratic National Convention which was held 8/17-8/20. To see if the number of videos is a reflection of the public interest on the topics, I looked for google interest over time for the search ‘Republican National Convention’ and ‘Democratic National Convention’. 
 
-![conventionvideos](/images/Screen Shot 2020-09-09 at 12.58.03 PM.png)
+![conventionvideos](/images/Screen%20Shot%202020-09-09%20at%2012.58.03%20PM.png)
 
 
 The plot shows when the interests peaked vs when the videos were published for videos started trending after 8/26/20.
+
+conventioninterest
+
 This is the plot for when the videos were published vs when they were on the trending page. 
 Hurricane Laura was approaching Texas on the 27th, and the word cloud for the ‘News and Politics’ category shows that frequently used words are related to Hurricane Laura and less words are used related to the political conventions.
 
